@@ -1,4 +1,4 @@
-package com.habitapp.habitapp;
+package com.habitapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
